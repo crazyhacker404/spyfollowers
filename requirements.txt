@@ -1,0 +1,11 @@
+requests
+user_agent
+webbrowser
+instaloader
+sys
+termcolor
+random
+json
+gamerinsta
+pyfiglet
+marshal
