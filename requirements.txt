@@ -1,6 +1,6 @@
 requests
 user_agent
-webbrowser
+webbot
 instaloader
 sys
 termcolor
